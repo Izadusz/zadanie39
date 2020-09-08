@@ -1,6 +1,8 @@
-let array = [a1=5, a2=2, a3=3, a4=4, a5=5];
+var tablica = [6, 2, 3, 4, 7];
+var pierwszy = tablica[0];
 
-function find (array) {
-return Element(a1);
-}
-console.log(a1);
+console.log(tablica[0]);
+
+tablica.forEach(() => {
+    return (pierwszy);
+});
